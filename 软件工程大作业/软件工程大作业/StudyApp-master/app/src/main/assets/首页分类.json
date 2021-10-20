@@ -1,0 +1,34 @@
+[
+  {
+    "resId": 1,
+    "title": "爱情"
+  },
+  {
+    "resId": 2,
+    "title": "友情"
+  },
+  {
+    "resId": 3,
+    "title": "亲情"
+  },
+  {
+    "resId": 4,
+    "title": "偶像"
+  },
+  {
+    "resId": 5,
+    "title": "微信"
+  },
+  {
+    "resId": 6,
+    "title": "生日"
+  },
+  {
+    "resId": 7,
+    "title": "自由"
+  },
+  {
+    "resId": 8,
+    "title": "全部"
+  }
+]

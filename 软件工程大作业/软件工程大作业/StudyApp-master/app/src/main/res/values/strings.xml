@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">天天爱学习</string>
+
+    <!--nav-->
+    <string name="navigation_home">首页</string>
+    <string name="navigation_tables">成绩表</string>
+    <string name="navigation_collection">我的收藏</string>
+    <string name="navigation_error">错题集</string>
+    <string name="navigation_nearly">最近一次</string>
+    <string name="navigation_other">其他</string>
+    <string name="navigation_theme">主题选择</string>
+    <string name="navigation_setting">设置</string>
+    <string name="navigation_about">关于</string>
+
+    <!--首页分类页面-->
+
+    <string name="home_fragment_examination">考卷</string>
+    <string name="home_fragment_matters">事项</string>
+
+    <!--右上角快捷键设置-->
+    <string name="toolbar_tab01">设置01</string>
+    <string name="toolbar_tab02">设置02</string>
+
+
+    <string name="tv_enter">点击进入</string>
+
+    <string name="text_view_show">1,Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。</string>
+    <string name="text_view_show_a">Android design</string>
+    <string name="text_view_show_b">Android design支持库中提供的TabLayout默认把Tab的OnClickListener给</string>
+    <string name="text_view_show_c">Android design支持库中</string>
+    <string name="text_view_show_d">Android design支持库中提供的TabL</string>
+    <string name="text_solution_button">本题解析:(提交试题后才可以点击)</string>
+    <string name="text_solution">色彩从当代建筑、路标、人行横道以及运动场馆中获取灵感，由此引发出大胆的颜色表达激活了色彩，与单调乏味的周边环境形成鲜明的对比。强调大胆的阴影和高光。引出意想不到且充满活力的颜色。</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">账号</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_login">登录</string>
+    <string name="action_sign_in">注册</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">账号吗不能为空</string>
+    <string name="error_invalid_password">密码必须大于4个长度</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+
+    <!--考卷页面-->
+    <string name="complete_paper">交卷</string>
+    <string name="complete_tips">已结是最后一页，请重新检查或者选择交卷</string>
+    <!--评分页面-->
+    <string name="activity_score_title">试卷评分</string>
+    <string name="activity_score_sure">确认</string>
+    <string name="activity_score_total_points">总得分:</string>
+
+</resources>

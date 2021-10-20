@@ -1,0 +1,49 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/window_background</item>
+        <item name="android:textColor">@color/darkBackGround</item>
+        <item name="android:textColorSecondary">@color/darkBackGround</item>
+
+
+    </style>
+
+    <style name="AppThemePurple" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/deep_purple_primary</item>
+        <item name="colorPrimaryDark">@color/deep_purple_primary_dark</item>
+        <item name="colorAccent">@color/deep_purple_accent</item>
+
+        <item name="android:windowBackground">@color/deep_purple_primary</item>
+        <item name="buttonStyle">@style/Widget.AppCompat.Button</item>
+        <item name="android:textColor">@color/grey_f5</item>
+        <item name="android:textColorSecondary">@color/darkBackGround</item>
+        <item name="android:divider">@color/deep_purple_primary</item>
+    </style>
+
+
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:windowBackground">@color/colorPrimary</item>
+        <item name="buttonStyle">@style/Widget.AppCompat.Button</item>
+        <item name="android:textColor">@color/grey_f5</item>
+        <item name="android:textColorSecondary">@color/darkBackGround</item>
+        <item name="android:divider">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.Fullscreen" parent="AppTheme">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+</resources>

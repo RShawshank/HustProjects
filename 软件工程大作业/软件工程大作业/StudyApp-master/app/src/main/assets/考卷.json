@@ -1,0 +1,753 @@
+{
+  "examinationPaperId": 1,
+  "grade": "2",
+  "author": "敖梦思",
+  "paperType": 1,
+  "paperDifficulty": 5,
+  "questionBeans": [
+    {
+      "questionId": 25,
+      "question": "1,这是第一问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "A",
+      "score": 10,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 26,
+      "question": "1,这是第二问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 20,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 27,
+      "question": "1,这是三问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 20,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 28,
+      "question": "1,这是第四问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 50,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 29,
+      "question": "1,这是第一问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "A",
+      "score": 10,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 30,
+      "question": "1,这是第二问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 20,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 31,
+      "question": "1,这是三问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 20,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 32,
+      "question": "1,这是第四问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 50,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 33,
+      "question": "1,这是第一问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "A",
+      "score": 10,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 34,
+      "question": "1,这是第二问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 20,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 35,
+      "question": "1,这是三问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 20,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 36,
+      "question": "1,这是第四问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 50,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 37,
+      "question": "1,这是第一问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "A",
+      "score": 10,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 38,
+      "question": "1,这是第二问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 20,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 39,
+      "question": "1,这是三问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 20,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 40,
+      "question": "1,这是第四问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 50,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 41,
+      "question": "1,这是第一问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "A",
+      "score": 10,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 42,
+      "question": "1,这是第二问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 20,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 43,
+      "question": "1,这是三问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 20,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 44,
+      "question": "1,这是第四问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 50,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 45,
+      "question": "1,这是第一问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "A",
+      "score": 10,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 46,
+      "question": "1,这是第二问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 20,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 47,
+      "question": "1,这是三问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 20,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    },
+    {
+      "questionId": 48,
+      "question": "1,这是第四问题Android design支持库中提供的TabLayout默认把Tab的OnClickListener给写死了，但是在项目中有时候需要做一些控制处理，比如选中某一个Tab之前必须是先登录，未登录的情况需要跳转到登录界面。",
+      "solution": "这是解析的答案",
+      "answerKey": "B",
+      "score": 50,
+      "difficulty": 5,
+      "type": 1,
+      "selectBeans": [
+        {
+          "selectId": 1,
+          "select": "A",
+          "selectString": "选项A"
+        },
+        {
+          "selectId": 2,
+          "select": "B",
+          "selectString": "选项B"
+        },
+        {
+          "selectId": 3,
+          "select": "C",
+          "selectString": "选项C"
+        },
+        {
+          "selectId": 4,
+          "select": "D",
+          "selectString": "选项D"
+        }
+      ]
+    }
+  ]
+}

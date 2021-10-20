@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tab_01"
+        android:icon="@drawable/ic_account_balance_black_24dp"
+        android:title="@string/toolbar_tab01">
+
+    </item>
+    <item
+        android:id="@+id/tab_02"
+        android:icon="@drawable/ic_account_box_black_24dp"
+        android:title="@string/toolbar_tab01">
+
+    </item>
+    <item
+        android:id="@+id/tab_03"
+        android:icon="@drawable/ic_account_balance_wallet_black_24dp"
+        android:title="@string/toolbar_tab01">
+    </item>
+</menu>
